@@ -1,0 +1,26 @@
+#navbart
+{
+    background-color: rgb(208, 187, 128);
+}
+#trainer_image {
+    background-image: url(https://assets.designs.ai/images/free-trial/creative-group-working-startup-using-laptops.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    padding: 7rem 0;
+    height: 400px;
+   
+
+}
+#welcome_message{
+    text-align: center;
+    border: 0cap;
+    background-color: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+}
+
+#buttonmessage
+{
+    background-color: rgb(77, 60, 13);
+    color: #ffffff;
+}

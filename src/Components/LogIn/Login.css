@@ -1,0 +1,22 @@
+#loginform
+{
+    background-color: white;
+    width: 500px;
+   
+  
+    h3{
+        color: rgb(76, 59, 29);
+    }
+}
+
+#rootpage
+{
+    
+    background-color: rgb(255, 243, 220);
+}
+
+#loginbtn
+{
+    background-color: rgb(95, 79, 18);
+    color: rgb(255, 255, 255);
+}
